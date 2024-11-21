@@ -1,0 +1,10 @@
+{
+    "/assets/js/business/add-business.js": "/assets/js/business/add-business.js",
+    "/assets/js/business/add-product.js": "/assets/js/business/add-product.js",
+    "/assets/js/business/add-project.js": "/assets/js/business/add-project.js",
+    "/assets/js/business/edit-business.js": "/assets/js/business/edit-business.js",
+    "/assets/js/business/edit-invoice.js": "/assets/js/business/edit-invoice.js",
+    "/assets/js/business/edit-product.js": "/assets/js/business/edit-product.js",
+    "/assets/js/business/edit-project.js": "/assets/js/business/edit-project.js",
+    "/assets/js/business/send-invoice.js": "/assets/js/business/send-invoice.js"
+}
